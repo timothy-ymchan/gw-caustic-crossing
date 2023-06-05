@@ -1,3 +1,17 @@
+## 5th June 2023
+
+### Further work
+1. Try to think about (3) in progress a little more
+2. Try to search for papers in GW side that actually looked at such lensing cases.
+
+### Progress
+1. The derivation for the velocity formula is essentially the same as what I have derived before, so the complication is not there.
+2. The paper by Gravitational Microlensing at Large Optical Depth by Paczynski is well-written and introduces the formalism of background shear + multiple lenses. In fact, that have also been investigated by the gravitaitonal lensing community, just without the caustic crossing part.
+3. I suspect that the modification of the lens velocity is due to the fact that the microlens is actually being lensed by the background field. So the position we observe is actually an image position, not really the physical location of the microlens, that might be able to explain why I need to correct that velocity. Otherwise I can't see any reason why the lens velocity have a number of components. 
+
+### Goal of the day
+1. Try to work out why the relative velocity is the form it takes in oguri and also in R. Kayser, S. Refsdal and R. Stabell, Astron. Astrophys. 166, 36 (1986)
+
 ## 3rd June 2023
 
 ### Further work
