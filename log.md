@@ -5,6 +5,7 @@
 2. Tried to parameterize the time delay curve using the reduced variables (which should be easy)
 3. Read the degeneracy paper (https://arxiv.org/abs/2104.07055)
 4. Write the waveform and try to look at it
+5. Should also try to explore the moste general form of degeneracy for the doppler lensing problem (perhaps using inverse function theorem?)
 ### Progress
 1. Worked out from first principle the time delay of the PML including the source part $\psi(\vec \beta)$
 
