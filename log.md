@@ -1,3 +1,13 @@
+## 9th June 2023
+### Progress
+1. In the microlensing work by Liao et. al. (2019) (https://arxiv.org/pdf/1903.06612.pdf), they rescale the time such that the arrivial time is zero at image position. This have serval problems: First, they ignore the fact that the time delay without lensing is sensitive to the source velocity only, so they missed a term. Second, it also seems that if they don't fix a particular $y$ as reference, the waveform they obtain will simply be wrong because they don't have the phase modulation. Of course, in reality it is the time delay difference that affects the phase evolution between the two images. So basically the two images will have relative different phase evolution due to the motion of the lens.
+
+### To do next (Check list):
+1. Suppose the motion is due to true source motion, then work out the waveform and compare the results with Liao et. al. (2019). Also try, if possible, work out a frequency domain representation for the waveform under some limits.
+    1. It appears that Liao's $\phi_m$ is copied directly from Takahashi, but I am not sure whether that is correct
+    2. Try to do stationary phase method on the point mass time delay to verify the results with Takahashi
+    3. Then implement the waveform for testing
+
 ## 7th June 2023
 
 ### Further work
