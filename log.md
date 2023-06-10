@@ -1,3 +1,8 @@
+## 10th June 2023
+### Progress
+1. Verify the calculation of Takahashi et. al. and working toward understanding the $\phi(\vec y)$ term in point mass lensing and whether that is sensible.
+2. Also produced jupyter notebook of the derivation and also some examples of the stationary phase method.
+
 ## 9th June 2023
 ### Progress
 1. In the microlensing work by Liao et. al. (2019) (https://arxiv.org/pdf/1903.06612.pdf), they rescale the time such that the arrivial time is zero at image position. This have serval problems: First, they ignore the fact that the time delay without lensing is sensitive to the source velocity only, so they missed a term. Second, it also seems that if they don't fix a particular $y$ as reference, the waveform they obtain will simply be wrong because they don't have the phase modulation. Of course, in reality it is the time delay difference that affects the phase evolution between the two images. So basically the two images will have relative different phase evolution due to the motion of the lens.
