@@ -1,2 +1,5 @@
 
 *.pdf
+*-checkpoint.ipynb
+*-checkpoint.nb
+*-checkpoint.md
