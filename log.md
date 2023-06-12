@@ -1,3 +1,11 @@
+## 12nd June 2023
+### Progress
+1. Thinking about the observables in geometric optics limit and ways to introduce degeneracies into the model.
+2. In geometric-wave optics (intermediate limit), it appears that only considering the case of two nearly monochromatic wave is ok.
+3. In that case we can from observation obtain the magnification, time delay, and phase (I think)
+4. The next step is to see how to transform the variables so that we can have different masses but also same observable
+5. I am not sure how to calculate the deflection field of an infinite sheet mass when reading the paper, migth follow up on that too.
+
 ## 11st June 2023
 ### Progress
 1. Verified & Reproduce some plots in Takahashi to understand the terms in $\Delta t_d$
