@@ -1,3 +1,12 @@
+## 11st June 2023
+### Progress
+1. Verified & Reproduce some plots in Takahashi to understand the terms in $\Delta t_d$
+    1. Basically, they adjust $\phi(\vec y)$ such that the arrivial time of the first image is zero.
+    2. Therefore, if the source is actually moving, the common redshift that is introduced to both of the images will not be modeled here
+    3. However that is ok, because most of the time there are degeneracies. For example, in the Doppler lensing case, the motion of the source will induce a common redshift to both images, but that can never be detected unless there are additional constraints on the waveform from other observations
+    4. Of course, for microlensing that can be different because there is an integrate phase, but for the moment we can keep that untouched.
+
+
 ## 10th June 2023
 ### Progress
 1. Verify the calculation of Takahashi et. al. and working toward understanding the $\phi(\vec y)$ term in point mass lensing and whether that is sensible.
