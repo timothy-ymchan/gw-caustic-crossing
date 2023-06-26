@@ -1,3 +1,14 @@
+## 26th June 2023
+
+### Progress:
+1. The amplification factor by Nakamura needs to be modified to handle our case, this is because they have normalized the time delay in such a way that the arrivial time of the first wave is $t_d=0$, but we cannot have this to be true in microlensing discussion. This is because even if I only get one image, due to the doppler lensing interpretation, we will still get frequency evolution.
+2. Working on understanding what it means to have diffraction. Now I understand what they want to do is probably to have just observe the amplification. Given time is shorter than decoherence time should be fine. So it is ok to ignore the point raise in (1) for their case.
+3. Working on nailing down the ingredient for the waveform. In particular raises the question whether $t_d$ also depends on $y_0$ (It should be, now I think about it)
+
+### Goal:
+1. Given a monochromatic wave, plot the microlensing waveform of microlensing and understand better what is the fringing effect.
+2. Read a paper on degeneracy of EM microlensing and see what can we do about it.
+
 ## 12nd June 2023
 ### Progress
 1. Thinking about the observables in geometric optics limit and ways to introduce degeneracies into the model.
