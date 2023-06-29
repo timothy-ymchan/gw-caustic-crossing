@@ -1,3 +1,8 @@
+## 29 th June 2023
+1. Worked out that the time delay really do scale as $\M_L$ and in reality does not really depends on $y_0$, so getting closer to the lens cannot tell you much. In other words, it meant that the timing is intrinsic to the mass. However, it is degenerate with the source frequency.
+2. Worked out the geometric vs optics waveform of moving lens case, they are consistent. However, it seems to be weird that as long as $w$ is unchanged the waveform are identical, in particular, it seems like $f_0$ is not the true frequency somehow, need more investigation to confirm what is happening.
+3. Corrcted a previous mistakes in `microlensing-waveform.ipynb`. In particular we have messed up `4` in front of the geometric one and forgot to put in `Ml` dependence on both waveform. But at the end the test cases we did have everything canceled so this was not discovered earlier.
+
 ## 26th June 2023
 
 ### Progress:
